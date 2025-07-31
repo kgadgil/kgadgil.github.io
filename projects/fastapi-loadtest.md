@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: FastAPI Under Load — From Prototype to Kubernetes
 date: 2025-07-27
 ---
