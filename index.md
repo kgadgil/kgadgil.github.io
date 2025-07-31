@@ -11,9 +11,13 @@ This site is a growing log of those projects. Think of it as a public engineerin
 
 ## 🛠️ Projects
 
-- [FastAPI Under Load](./projects/fastapi-loadtest.md)  
-  *A local FastAPI app gets pushed to its limits, then rearchitected for Kubernetes.*
-
-- *(more coming soon)*
+<ul>
+  {% assign sorted_projects = site.projects | sort: 'order' %}
+  {% for project in sorted_projects %}
+    <li>
+      <a href="{{ project.url }}">{{ project.title }}</a> — {{ project.summary }}
+    </li>
+  {% endfor %}
+</ul>
 
 ---
