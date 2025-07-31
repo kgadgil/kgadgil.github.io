@@ -1,7 +1,6 @@
 
 ---
 layout: home
-title: Small Systems, Big Lessons
 ---
 
 # Small Systems, Big Lessons
