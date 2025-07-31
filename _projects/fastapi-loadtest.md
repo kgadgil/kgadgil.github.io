@@ -1,6 +1,7 @@
 ---
 layout: page
-title: FastAPI Under Load — From Prototype to Kubernetes
+title: Prototyping a scalable FastAPI app 
+summary : Simplistic notes app subjected to high volume of requests
 date: 2025-07-27
 ---
 
