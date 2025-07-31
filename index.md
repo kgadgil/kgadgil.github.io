@@ -19,5 +19,3 @@ This site is a growing log of those projects. Think of it as a public engineerin
     </li>
   {% endfor %}
 </ul>
-
----
