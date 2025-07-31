@@ -1,3 +1,8 @@
 title: Engineering Notes
-description: A collection of weekend projects showcasing software engineering skills.
 theme: minima
+description: A collection of weekend experiments in building and designing systems.
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
