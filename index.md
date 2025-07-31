@@ -1,11 +1,25 @@
+
 ---
 layout: home
-title: Kalyani's Project Lab
+title: Small Systems, Big Lessons
 ---
 
-Welcome! I'm building one project every weekend to sharpen my engineering skills.
+# Small Systems, Big Lessons
 
-## Projects
+Every weekend, I build a small project to explore ideas, sharpen my skills, or just follow a hunch. Sometimes it’s a quick prototype. Sometimes it turns into a deep dive. Either way, I document what I learned — and where I’d take it next.
 
-- [Kafka Bookstore System](./projects/kafka-bookstore.md)
-- [FastAPI Load Test](./projects/fastapi-loadtest.md)
+This site is a growing log of those projects. Think of it as a public engineering journal, experiment archive, and reflection space.
+
+---
+
+## 🛠️ Projects
+
+- [FastAPI Under Load](./projects/fastapi-loadtest.md)  
+  *A local FastAPI app gets pushed to its limits, then rearchitected for Kubernetes.*
+
+- *(more coming soon)*
+
+---
+
+If you’re curious about how something was built — or would’ve done it differently — I’d love to hear from you.  
+→ [GitHub](https://github.com/kgadgil)
