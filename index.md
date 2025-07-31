@@ -1,6 +1,6 @@
-
 ---
-layout: home
+layout: page
+title: Small Systems, Big Lessons
 ---
 
 # Small Systems, Big Lessons
@@ -19,6 +19,3 @@ This site is a growing log of those projects. Think of it as a public engineerin
 - *(more coming soon)*
 
 ---
-
-If you’re curious about how something was built — or would’ve done it differently — I’d love to hear from you.  
-→ [GitHub](https://github.com/kgadgil)
