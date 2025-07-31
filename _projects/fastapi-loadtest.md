@@ -8,11 +8,12 @@ date: 2025-07-27
 
 ---
 
-This weekend, I explored how a simple FastAPI notes app evolves into a production-ready, scalable system capable of handling real-world traffic. What started as a local SQLite prototype transformed into a secure, containerized, and load-tested web service running on Kubernetes.
+Last weekend, I explored how a simple FastAPI notes app evolves into a production-ready, scalable system capable of handling real-world traffic. What started as a local SQLite prototype transformed into a secure, containerized, and load-tested web service running on Kubernetes.
 
 ### 💡 Project Goals
 
-- Build a simple FastAPI app with user authentication and note-taking
+- Build a simple notes app built in FastAPI
+- Added user authentication using JWT
 - Start with SQLite for rapid prototyping
 - Replace SQLite with PostgreSQL for concurrency and durability
 - Containerize the app using Docker for reproducibility
@@ -44,3 +45,6 @@ This project helped me understand where quick prototypes start to break down —
 ---
 
 **Keywords**: FastAPI, SQLAlchemy, Pydantic, SQLite, PostgreSQL, Docker, Kubernetes, Load Testing, Authentication
+
+
+[← Back to all projects](../index.md)
