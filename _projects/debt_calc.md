@@ -1,3 +1,14 @@
+---
+layout: page
+title: Private Debt Calculator 
+summary : Simple debt payoff calculator in Streamlit
+date: 2025-08-08
+---
+
+[🔗 View the full project on GitHub](https://github.com/kgadgil/financial-planner)
+
+---
+
 ### Take Charge of Your Debt — Locally, Instantly, Intelligently
 
 **1. 100 % local, 100 % private**
